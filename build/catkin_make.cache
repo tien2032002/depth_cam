@@ -1,0 +1,2 @@
+camera_simulation:common-sensors/common_sensors:franka_ros/franka_control:franka_ros/franka_description:franka_ros/franka_example_controllers:franka_ros/franka_gazebo:franka_ros/franka_gripper:franka_ros/franka_hw:franka_ros/franka_msgs:franka_ros/franka_ros:franka_ros/franka_visualization:panda_moveit_config:python_interface
+-DCATKIN_DEVEL_PREFIX=/home/baotien/ws_moveit/devel -DCMAKE_INSTALL_PREFIX=/home/baotien/ws_moveit/install -G Unix Makefiles
